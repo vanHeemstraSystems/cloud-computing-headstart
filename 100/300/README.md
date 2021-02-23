@@ -43,3 +43,27 @@ See [README.md](./1900/README.md)
 ## 2000 Data Backup and Resiliency
 
 See [README.md](./2000/README.md)
+
+## 2100 Business Case Studies: Netflix
+
+See [README.md](./2100/README.md)
+
+## 2200 Business Case Studies: Threem
+
+See [README.md](./2200/README.md)
+
+## 2300 Business Case Studies: Adobe
+
+See [README.md](./2300/README.md)
+
+## 2400 Business Case Studies: Hsbc
+
+See [README.md](./2400/README.md)
+
+## 2500 Key Takeaways
+
+See [README.md](./2500/README.md)
+
+## 2600 Knowledge Check
+
+See [README.md](./2600/README.md)
