@@ -1,5 +1,7 @@
 # 200 Basics of Cloud Computing
 
+Based on "Basics of Cloud Computing" at https://lms.simplilearn.com/courses/3971/Introduction-to-Cloud-Computing/syllabus
+
 ## 1000 Introduction
 
 See [README.md](./1000/README.md)
