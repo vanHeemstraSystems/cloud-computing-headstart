@@ -40,7 +40,7 @@ See [README.md](./1800/README.md)
 
 See [README.md](./1900/README.md)
 
-## 2000 Iaas
+## 2000 IaaS
 
 See [README.md](./2000/README.md)
 
