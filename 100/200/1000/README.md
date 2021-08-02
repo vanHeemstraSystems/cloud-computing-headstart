@@ -9,5 +9,3 @@ By the end of this lesson, you will be able to:
 - List the benefits and risks of cloud computing
 - Identify the various types of cloud models and services
 - Illustrate the real-world applications of cloud computing
-
-== WE ARE HERE ==
