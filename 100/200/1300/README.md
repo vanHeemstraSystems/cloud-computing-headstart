@@ -26,6 +26,13 @@
 
 ## Benefits of Cloud Computing: Reliable
 
-- 
+- Azure provides: Data backups, Disaster recovery, Data replication
 
-== WE ARE HERE ==
+## Benefits of Cloud Computing: Secure
+
+- Physical security
+- Digital security
+
+## Benefits of Cloud Computing: Metered
+
+- Pay only for what you use.
