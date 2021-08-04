@@ -1,8 +1,7 @@
 # 1900 Types of Cloud Services
 
+There are three types of Cloud Services:
 
-
-
-
-
-== WE ARE HERE ==
+- IaaS: Infrastructure as a Service
+- PaaS: Platform as a Service
+- SaaS: Software as a Service
