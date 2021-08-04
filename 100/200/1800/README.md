@@ -20,10 +20,16 @@
 
 Let us start with ***Public Cloud***:
 
-1. No CapEx: you don't have to buy a new server to scale up.
-2. Agility: applications can be made accessible quickly.
-3. 
+1. No (Capital Expenses) CapEx: you don't have to buy a new server to scale up.
+2. High Agility: applications can be made accessible quickly, and de-provisioned when ever needed.
+3. Consumption-based model: organizations pay only for what they use, and operate under an (Operational Expenses) OpEx model.
 
+Next is ***Private Cloud***:
 
+1. High Control: organizations have complete control over resources.
+2. Control over Security: organzations have complete control over security.
 
-== WE ARE HERE ==
+And ***Hybrid Cloud***:
+
+1. Provision for Flexibility: this is the most flexible scenario. With a hybrid cloud setup an organization can determine whether to run their applications in a private cloud or in a public cloud. 
+2. Compliance, as required: organizations maintain the ability to comply with strict security, compliance, or legal requirements as needed.
