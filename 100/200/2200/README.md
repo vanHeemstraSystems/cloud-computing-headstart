@@ -42,6 +42,3 @@ And finally, SaaS:
 ## Comparison of Cloud Services: Management
 
 ![Comparison_of_Cloud_Services-Management](https://user-images.githubusercontent.com/12828104/128345357-c0bcbb11-9bf5-4e65-b79d-4161d8376bc8.png)
-...
-
-== WE ARE HERE ==
