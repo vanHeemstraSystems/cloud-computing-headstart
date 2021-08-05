@@ -36,10 +36,12 @@ Cloud computing :
 - enables e-commerce to serve the changing demand of the market.
 - allows the organizations to scale up or down their services according to the demand, traffic load, and seasonal spikes.
 
-
-For a retail business, speed plays an important role.
+For a retail business, speed plays an important role to make the customers attach to your application.
 
 Customers will be engaged in your application depending on how fast they can access it.
+
+40% of customers close a web page if it takes more than three seconds to load. [source: Akamai]
+
 
 
 
