@@ -27,6 +27,24 @@ Now lets see how cloud computing can help retail businesses.
 
 ## Retail Industry
 
+Virtual machines help in-house creation of custom applications for retail use.
+
+Next is scalability.
+
+Cloud computing :
+
+- enables e-commerce to serve the changing demand of the market.
+- allows the organizations to scale up or down their services according to the demand, traffic load, and seasonal spikes.
+
+
+For a retail business, speed plays an important role.
+
+Customers will be engaged in your application depending on how fast they can access it.
+
+
+
+
+
 
 
 == WE ARE HERE ==
