@@ -40,13 +40,18 @@ For a retail business, speed plays an important role to make the customers attac
 
 Customers will be engaged in your application depending on how fast they can access it.
 
-40% of customers close a web page if it takes more than three seconds to load. [source: Akamai]
+- 40% of customers close a web page if it takes more than three seconds to load. [source: Akamai]
 
+- 1% increase in revenue for every hundred milliseconds of improvement in website speed. [source: Amazon]
 
+An unexpected spike in traffic can slow down a website or make it unresponsive, however, cloud computing provides you with greater bandwidth, higher compute power, and massive storage.
 
+Cloud-based architectures are fault-tolerant. A cloud-based platform with build-in redundancy can help save a business from data loss.
 
+- It keeps the data secure
+- Backed-up, and
+- Easily accessible, either in the same region or any other region.
 
+An e-commerce business depends mostly on customer data.
 
-
-
-== WE ARE HERE ==
+Redundacy helps overcome disaster at the time of failure, data loss, or security threats and get the business back to life, in a streamlined way.
