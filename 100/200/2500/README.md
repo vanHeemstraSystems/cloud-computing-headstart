@@ -37,6 +37,3 @@ Desktop computing has never been a form of cloud computing.
 [ ] C. Serverless app
 
 [ ] D. SQL database
-
-
-== WE ARE HERE ==
