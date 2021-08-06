@@ -9,9 +9,7 @@
 
 ## What is Cloud Migration?
 
+Cloud migration is the process of moving digital business operations (e.g. databases, applications, and IT processes) into cloud from an on-premise system to another cloud. You can think of this as moving from a smaller workarea to a larger premise. Cloud migration requires a lot of preparation and core work. Migration to cloud can give you multiple benefits, such as:
 
-
-
-
-
-== WE ARE HERE ==
+- Increased Cost Savings
+- Greater Flexibility
