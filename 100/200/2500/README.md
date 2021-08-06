@@ -6,7 +6,7 @@ Which of the following are important features of a public cloud? Select all that
 
 [x] B. Metered-pricing
 
-[x] C. Limited storage capacity
+[ ] C. Limited storage capacity
 
 [x] D. Self-serviced platform
 
