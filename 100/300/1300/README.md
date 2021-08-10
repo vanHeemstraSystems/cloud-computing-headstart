@@ -4,16 +4,9 @@
 - ***Continued Operation***: during migration, the current systems should remain operational and available for the enterprise and the businesses. To ensure continuous delivery there will be some overlap between cloud and on-premise. Businesses should make sure that migration is done in bits and pieces typically instead of all at once.. 
 - ***Interoperability and Portability***: The migration services, in and out of the cloud, should be provided to the customer. The user should be able to move the data between the cloud and on-premise infrastructure. Customers should be allowed to use the same tools and software across a variety of cloud providers.
 - ***Migrating Huge Data***: In order to function in cloud, databases might need to move to a different platform. Cloud providers have now started providing services offering physical data transfer, where you get a hardware device couriered to you on-premise to transfer the data onto it and then shipping the storage device back to the cloud provider. This helps reduce the time it would have taken for massive data transfer.   
-- ***Reliability and Flexibility***: 
-- ***Downtime***: 
-- ***Security and Privacy***: 
-- ***Costs***: 
-- ***Lack of Resources***: 
-- ***Management of Multi-Cloud Environment***: 
-
-
-
-
-
-
-== WE ARE HERE ==
+- ***Reliability and Flexibility***: Reliability should be provided to the customer by the host and data in the cloud should not leak. This challenge can be eliminated by monitoring and supervising the performance, business dependencies, and robustness in the services provided by the third party. 
+- ***Downtime***: A common challenge in cloud is downtime. None of the cloud providers provide you with a platform which is free from downtime. Downtime may also arise due to other issues, like poor Internet connectivity, power supply, network failure, and so on.
+- ***Security and Privacy of cloud***: Security and full confidentiality should be provided by data stores in cloud. Necessary security measures should be taken by cloud providers to secure the customers data. When it comes to cloud security, it is a shared responsibility, which means customers as well as cloud providers should be responsible in taking care of data. As some good practices, you should not share the password with anyone, have a strong password and regularly change the password. 
+- ***Costs***: Though cloud computing is affordable, but it can be expensive when you try to meet the customer's demand and modify the cloud. Modifying the cloud may sometimes cost more and can hinder small scale organizations. Apart from it, transferring the data back to on-premises from cloud can be costly. 
+- ***Lack of Resources***: Today there is a huge gap between the demand and supply of required resources and expertise. Enterprises are overcoming this challenge by hiring skilled persons who are experienced, can help eliminate challenges faced by the company, and also train existing resources on new technologies.  
+- ***Management of Multi-Cloud Environment***: Companies have started using multiple cloud, rather than relying on one single cloud, making themselves cloud-agnostic. There may be complexities faced by the IT team in a multi-cloud environment.
