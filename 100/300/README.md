@@ -28,7 +28,7 @@ See [README.md](./1500/README.md)
 
 See [README.md](./1600/README.md)
 
-## 1700 Four-step Plan for Cloud Migration
+## 1700 Four-Step Plan for Cloud Migration
 
 See [README.md](./1700/README.md)
 
