@@ -36,10 +36,20 @@ The expected business outcome is:
 
 ## Rebuild
 
-Rebuild means ....
+Rebuild means rewriting and re-architecting the application from scratch on a Platform as as Service (PaaS) providers platform. This allows developers to leverage the advanced features offered by PaaS providers, but would be a labour intesive task. 
 
+The expected business outcome is:
 
+- Help drive innovation as the R&D teams can use diferent cloud services to develop the products.
+- Applications can be built faster, providing more time for testing and release activities.
+- Operational cost can be reduced compared to the cost of on-premise infrastructure.
 
+## Replace
 
+Enterprises can also opt to get rid of their old applications completely, and switch to already available Software as a Service (SaaS) applications from different third party vendors.
 
-== WE ARE HERE ==
+The expected business outcome is:
+
+- Standardize and follow industry best practices.
+- Business process-driven approaches can be adopted quickly, improving collaboration in the team.
+- Allows more investments into applications that create a difference or provide competitive advantages so that you achieve greater Return On Investment (ROI).
