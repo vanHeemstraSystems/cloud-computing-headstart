@@ -1,4 +1,4 @@
-# Four-set Plan for Cloud Migration
+# Four-Step Plan for Cloud Migration
 
 
 
