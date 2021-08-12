@@ -9,6 +9,7 @@ Setting the business strategy align to the project and identifying your organiza
 Business Criteria:
 
 - ***Establish clear business outcomes.*** Drive transparency and engagement for your journey across the organization.
+
 - ***Define business justification.*** Select the right technology by identifying business value opportunities. 
 
 ### 2: Use Split Approach for Cloud Migration
@@ -32,6 +33,17 @@ Perform a readiness assessment by:
 A few tools to help you with the process are:
 
 - ***[Cloud Adoption Readiness Tool (CART)](https://cloudreadiness.amazonaws.com/#/cart) from Amazon Web Services (AWS).*** 
+
+- ***[Azure Total Cost of Ownership (TCO) Calculator](https://azure.microsoft.com/en-us/pricing/tco/calculator/).*** TCO Calculator can be used to estimate the cost savings that can be realized by migrating your application workloads to Azure. 
+
+- ***[Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator).*** Estimate your expected monthly bill by using the pricing calculator. 
+
+- ***[Azure Cost Management](https://azure.microsoft.com/en-us/services/cost-management/).*** Use and manage Azure and other cloud resources through multiple cloud cost management solution. 
+
+## Step 2: Plan for Readiness and Other Processes 
+
+
+
 
 
 
