@@ -42,7 +42,31 @@ A few tools to help you with the process are:
 
 ## Step 2: Plan for Readiness and Other Processes 
 
+As a part of this step of cloud migration:
 
+- ***Address gaps uncovered in the assessment phase.*** 
+
+- ***Keep resources prepared with technical readiness.***
+
+- ***Set in place processes to drive business and technology changes.***
+
+- ***Define a technology plan to enable business outcomes.***
+
+- ***Focus on building your baseline environment.***
+
+## Step 3: Adopt and Migrate 
+
+### Adoption and Migration
+
+- ***Design, migrate, and validate each application.*** In this phase, each application designed, migrated, and validated.
+
+Cloud migration is the process of moving data and application digital business operations into the cloud. 
+
+- ***Replicate existing resources to cloud with the least changes.*** Existing resources are replicated to the cloud with the least changes. 
+
+- ***Transition users from the exisitng solution to the cloud solution,*** once an application or workload becomes operational in the cloud.
+
+### Preparation
 
 
 
