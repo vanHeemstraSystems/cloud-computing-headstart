@@ -68,9 +68,15 @@ Cloud migration is the process of moving data and application digital business o
 
 ### Preparation
 
+Preparation for migration can be done by establishing a rough migration backlog, which is based on the current state and desired outcomes. 
 
+Business outcomes:
 
+- ***Set business objectives.*** The key business objectives that drive this migration are defined in the plan stage.
 
+Resource estimate:
+
+- ***Prepare an estimate of the workloads to be migrated.*** 
 
 
 
