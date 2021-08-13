@@ -76,12 +76,50 @@ Business outcomes:
 
 Resource estimate:
 
-- ***Prepare an estimate of the workloads to be migrated.*** 
+- ***Prepare an estimate of the workloads to be migrated.*** A rough estimate of the number and health of workloads to be migrated is defined in the plan stage.
+
+Roles and responsibilities:
+
+- ***Define the team structure, access requirements, and separation of responsibilities.*** A clear definition of the team structure, access requirements, and separation of responsibilities is defined in the readiness stage. 
+
+Change management requirements:
+
+- ***Specify processes and documentation required to review and approve changes.*** The processes and documentation required to review and approve changes is defined in the readiness stage.
+
+### Tools for Migration
+
+Tools to help you.
+
+- [AWS Server Migration Service](https://aws.amazon.com/server-migration-service/)
+- [AWS Database Migration Service](https://aws.amazon.com/aws/databases)
+- [Azure Migrate](https://azure.microsoft.com/microsoft_azure/migrate)
+- [Google Cloud Platform (GCP) - Migrate for Compute Engine](https://cloud.google.com/migrate/compute-engine)
 
 
+## Step 4: Govern, Manage, and Optimize
 
+As you adopt cloud there are clear milestones and noticable business benefits.
 
+When an organization begins the journey to move to cloud the final state of cloud adoption is not known. This final state starts appearing as and when your organizations moves or deploys new applications to cloud. 
 
+Considering the below aspects of managing and operating a cloud platform is important. You should define governance solutions for your cloud environment that meet your organizations business requirements, help control risks, and provide agility. 
 
+Some tools to help you:
 
-== WE ARE HERE ==
+- [AWS Management and Governance Services](https://aws.amazon.com/products/management-and-governance/)
+
+- [AWS Control Tower](https://aws.amazon.com/controltower/)
+
+- [AWS Cloud Watch](https://aws.amazon.com/cloudwatch/)
+
+- [Azure Advisor](https://azure.microsoft.com/en-us/services/advisor/)
+
+- [Azure Monitor](https://azure.microsoft.com/en-us/services/monitor/)
+
+- [Azure Policy](https://azure.microsoft.com/en-us/services/azure-policy/)
+
+- [Google Cloud Platform Security Command Center](https://cloud.google.com/security-command-center)
+
+- [Google Cloud Platform Alert Center](https://support.google.com/a/answer/9105393)
+
+- [Google Cloud Platform Vault](https://support.google.com/vault/answer/2462365?hl=en)
