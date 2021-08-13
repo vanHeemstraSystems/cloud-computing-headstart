@@ -9,11 +9,15 @@
 
 ![Screenshot 2021-08-13 164629](https://user-images.githubusercontent.com/12828104/129375069-39d286f2-bc99-4a9b-82be-93eafb7b68a6.png)
 
-Having a business continuity plan in place helps you retain your brand value, boost your customer confidence , and reduce the risk of loss. 
+Having a business continuity plan in place helps you retain your brand value, boost your customer confidence, and reduce the risk of loss. 
 
+The technical strategy for business continuity ensures that internal and external applications, workloads, and services are resilient by remaining operational during planned downtime and unplanned outages. 
 
+## High Availability
 
+High Availability (HA) is the ability of the application to continue running in a healthy state despite localized or transient failures.
 
+Typically, high availability relies on ...
 
 
 
