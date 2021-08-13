@@ -19,7 +19,26 @@ High Availability (HA) is the ability of the application to continue running in 
 
 ![Screenshot 2021-08-13 165351](https://user-images.githubusercontent.com/12828104/129376115-06297645-8274-4e69-b33a-0bc872d0c128.png)
 
-Typically, high availability relies on ...
+Typically, high availability relies on redundancy of application components and automatic failover. 
+
+Do you manage apps, having high traffic?
+
+If Yes, you need to have HA.
+
+Can you afford downtime?
+
+If No, you need to have HA so that you can reduce the downtime.
+
+## Disaster Recovery
+
+Disaster Recovery (DR) is the process of recovering from major incidents, such as service disruption that affects an entire region.
+
+***Data Backup*** and ***Data Archiving*** are included as a part of ***Disaster Recovery*** and could require manual intervention.
+
+Example:
+
+...
+
 
 
 
