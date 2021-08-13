@@ -17,6 +17,8 @@ The technical strategy for business continuity ensures that internal and externa
 
 High Availability (HA) is the ability of the application to continue running in a healthy state despite localized or transient failures.
 
+![Screenshot 2021-08-13 165351](https://user-images.githubusercontent.com/12828104/129376115-06297645-8274-4e69-b33a-0bc872d0c128.png)
+
 Typically, high availability relies on ...
 
 
