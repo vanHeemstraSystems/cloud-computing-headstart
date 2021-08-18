@@ -27,9 +27,16 @@ This makes it very simple for you to bring your application to live again.
 
 ## Resiliency: Recovery Time Objective (RTO)
 
-***Recovery Time Objective (RTO)*** is the maximum acceptable time an application can be unavailable after a failure.
+***Recovery Time Objective (RTO)*** is the maximum acceptable time an application can be unavailable after a failure or incident.
 
+If the RTO is 70 minutes, the application must be restored to a running state within 70 minutes from the start of the disaster.
 
+You should consider a secondary deployment of applications running in standby mode if the RTO is low.
 
+## Resiliency: Recovery Point Objective (RPO)
 
-== WE ARE HERE ==
+***Recovery Point Objective (RPO)*** is the maximum duration of data loss that is acceptable during a disaster.
+
+For example:
+
+If an inventory data is in a single database, with no replication to other databases, and performs backups every hour, then you could loose data worth an hour.
