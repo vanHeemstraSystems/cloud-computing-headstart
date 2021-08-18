@@ -6,7 +6,8 @@ Netflix Inc. is an American Media Services Provider and Production Company. The 
 - Monitor real-time network to improve customer experience.
 
 ```
-"Amazon Kinesis Streams processes multiple terabytes of log data each day, yet events show up in our analytics in seconds. We can discover and respond to issues in real-time, ensuring high availability and a great customer experience."
+"Amazon Kinesis Streams processes multiple terabytes of log data each day, yet events show up in our analytics in seconds. 
+We can discover and respond to issues in real-time, ensuring high availability and a great customer experience."
 
 John Bennet, Senior Software Engineer, Netflix
 ```
