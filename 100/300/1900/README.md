@@ -37,10 +37,4 @@ Disaster Recovery (DR) is the process of recovering from major incidents, such a
 
 Example:
 
-...
-
-
-
-
-
-== WE ARE HERE ==
+Using a backup to restore data.
