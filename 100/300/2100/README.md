@@ -12,9 +12,12 @@ We can discover and respond to issues in real-time, ensuring high availability a
 John Bennet, Senior Software Engineer, Netflix
 ```
 
+## Netflix
 
+Let's look at the achievements of Netflix.
 
-
-
-
-== WE ARE HERE ==
+- Netflix processes multiple terabytes of data each day.
+- They were provided sub-second response times for analytics queries. This reduced time helps them in having a greater footfall (i.e. number of online visitors). 
+- It is very cost efficient as compared to competing solutions.
+- Just a few simple API calls were done to ingest data.
+- One thousand Amazon Kinesis shards work in parallel making a highly elastic solution. Shard is the base throughput unit of an Amazon Kinesis data stream. This scalability allows Netflix to handle the increased load.
