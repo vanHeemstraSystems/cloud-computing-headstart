@@ -48,7 +48,7 @@ See [README.md](./2000/README.md)
 
 See [README.md](./2100/README.md)
 
-## 2200 Business Case Studies: Threem
+## 2200 Business Case Studies: 3M
 
 See [README.md](./2200/README.md)
 
