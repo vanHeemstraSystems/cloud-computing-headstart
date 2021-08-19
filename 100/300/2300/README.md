@@ -20,15 +20,7 @@ and delivering great customer experiences."
 
 Adobe has achieved many things, because of cloud, such as:
 
-- Running a massive SaaS business from Cloud
-
-
-
-
-
-
-
-
-
-
-== WE ARE HERE ==
+- Running a massive SaaS business from Cloud and it has moved to a subscription-based model, which has lead to increased business and recurring revenue.
+- Focusing on core business by making resources available that are used to take care of on-premise data centers.
+- Multilayer security to protect big SaaS applications. 
+- Delivering great customer experiences with outstanding performance and availability.
