@@ -56,7 +56,7 @@ See [README.md](./2200/README.md)
 
 See [README.md](./2300/README.md)
 
-## 2400 Business Case Studies: Hsbc
+## 2400 Business Case Studies: HSBC
 
 See [README.md](./2400/README.md)
 
