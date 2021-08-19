@@ -19,11 +19,11 @@ prospective customers don't have to worry that their service is running on some 
 - William K.Smyth, Global Business Manager, 3M VAS
 ```
 
+Let's look at the achievments of 3M:
 
-
-
-
-
-
-
-== WE ARE HERE ==
+- Minimized internal management time, cost, and hardware acquisition.
+- 50% increase in revenue.
+- Increased profit.
+- Response time of application improved by 2 to 3 seconds.
+- Easy movement to cloud using familiar development environment, Visual Studio. 
+- The platform is managed by a cloud vendor, Microsoft, allowing 3M to grow their business.
