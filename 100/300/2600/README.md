@@ -16,10 +16,7 @@
 
 ## Which of the following tools will help you in cloud migration? Select all that apply>
 
-- [] A. AWS Server Migration
+- [X] A. AWS Server Migration
 - [] B. Azure Advisor
-- [] C. Azure Migrate
+- [X] C. Azure Migrate
 - [] D. AWS Cloudwatch
-
-
-== WE ARE HERE ==
