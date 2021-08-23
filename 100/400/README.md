@@ -8,11 +8,11 @@ See [README.md](./1000/README.md)
 
 See [README.md](./1100/README.md)
 
-## 1200 Capital Expenditure (capex)
+## 1200 Capital Expenditure (CapEx)
 
 See [README.md](./1200/README.md)
 
-## 1300 Operational Expenditure (opex)
+## 1300 Operational Expenditure (OpEx)
 
 See [README.md](./1300/README.md)
 
