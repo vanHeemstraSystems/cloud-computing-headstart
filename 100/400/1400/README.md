@@ -1,4 +1,4 @@
-# 1400 Benefits of Opex over Capex
+# 1400 Benefits of OpEx over CapEx
 
 
 
