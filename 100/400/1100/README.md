@@ -15,13 +15,20 @@ The end users can clearly visualize the savings. As an example, you can get hard
 
 ## Total Cost of Ownership (TCO)
 
-Total Cost of Ownership (TCO) is 
+Cloud helps you reduce Total Cost of Ownership (TCO) by providing a pay-as-you-go model and hence reduces the need to spend in large capital. This will allow you to have control over spending and procuring of resources and use them only when the business requires it. 
 
+Calculation of Total Cost of Ownership comprises two apporaches:
 
+- Capital Expenditure (CapEx)
+- Operational Expenditure (OpEx)
 
+Let's look at the companies that have achieved lesser TCO by migrating to the cloud.
 
-
-
-
-
-== WE ARE HERE ==
+- News Corp
+- Honeywell
+- Verizon
+- GoPro
+- WeWork
+- Intuit
+- Royal Dutch Shell
+- DBS Bank
