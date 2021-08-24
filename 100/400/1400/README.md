@@ -11,15 +11,4 @@ Now that you know what Operational Expenditure (OpEx) and Capital Expenditure (C
 | Scale infrastructure on demand. | Difficult to scale on demand. |
 | Optimize cost management. | Incur high infrastructure costs. |
 
-
-
-
-
-
-
-
-
-
-
-
-== WE ARE HERE ==
+For example, if you have huge traffic in one month then you can quickly scale to meet the demand. When the traffic reduces, you can de-provision the used resources. This allow to have dynamic cost management and optimized spending with change in requirement. 
