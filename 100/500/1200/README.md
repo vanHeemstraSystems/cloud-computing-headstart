@@ -29,4 +29,8 @@ Factors to be considered:
 
 ### Handling security incidents
 
+See https://github.com/vanHeemstraSystems/cloud-computing-headstart/blob/main/100/500/1300/README.md
+
 ### Providing advanced networking options
+
+See https://github.com/vanHeemstraSystems/cloud-computing-headstart/blob/main/100/500/1300/README.md
