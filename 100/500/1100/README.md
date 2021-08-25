@@ -36,11 +36,10 @@ Cloud security helps to:
 
 ## Private Cloud: Disadvantages
 
-- ***
+- ***Grants physical access to few people, increasing risk from malicious insiders***: In this setup, physical access is given to a few people which involves security risks due to malicious insiders in your organization.
+- ***Requires protection from different kinds of security attacks, like Distributed Denial of Service (DDoS) or malware***: 
+- ***Needs a disaster recovery plan***: In case of a natural calamity, you will have to plan disaster recovery.
+- ***May get impacted by Internet Service Provider (ISP) or power failures*** : In private cloud platform, there are chances that you might be impacted by Internet Service Provider (ISP) or power failure.
+- ***Relies completely on internal security***: Now with this type of platform security is completely under your control, whcih means it is entirely your responsibility. 
 
-
-
-
-
-
-== WE ARE HERE ==
+You need to scale the advantages and disadvantages before you decide which one suits your requirement.
