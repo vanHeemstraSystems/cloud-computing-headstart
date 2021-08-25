@@ -19,19 +19,14 @@ Factors to be considered:
 
 ### Protecting data from unauthorized third-party access
 
+Factors to be considered:
 
+- ***Appropriate Cloud Model***: You can choose from public, private, or hybrid cloud models and understand whether it aligns with your risk tolerance.
+- ***Data Sensitivity***: Determine how sensitive your data is. Is your data too sensitive to be processed and stored in cloud? Is your data classified as private, sensitive, or is the data available publicly?
+- ***Data Access Compliance***: Think about your data being accessed in other countries. Do you abide by the privacy laws of the countries in which your data is being accessed?
+- ***Data Monitoring***: Consider monitoring your data. Do you have enough tools to check integrity of data? Can you perform security monitoring effectively?
+- ***User Authentication***: Does the cloud vendor provide any identity and access management service? For example, multi-factor authentication, Active Directory sync with your on-premise environment, or federated single sign-on. 
 
 ### Handling security incidents
 
-
-
 ### Providing advanced networking options
-
-
-
-
-
-
-
-
-== WE ARE HERE ==
