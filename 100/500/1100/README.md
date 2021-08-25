@@ -25,15 +25,18 @@ Cloud security helps to:
 - ***Protects from data leakage***: It provides protection from data leakage.
 - ***Stores data in a private network***: Your private cloud infrastructure is isolated, and there is no need for you to connect to the Internet. 
 - ***Keeps data isolated, guarding you from network-related security issues***: This protects you from any kind of security issues that you may face if you are on the network.
-- ***Ensures zero downtime even if the cloud providers face shutdown***: And interestingly, there is no downtime even the cloud providesr face shutdown.
+- ***Ensures zero downtime even if the cloud providers face shutdown***: And interestingly, there is no downtime even the cloud providers face shutdown.
 
 ## Public Cloud: Disadvantages
 
+- ***Grants data access to anyone and from anywhere***: In case of public cloud, data access can be granted to anyone and from anywhere.
+- ***Can result in a vendor lock-in***: Since there is a dependency on the vendor, who might become a victim of some disturbance.
+- ***Creates dependency on cloud vendors for issue resolutions***: There is also a dependency on the cloud vendor's response issues, which needs their intervention, leading to increased wait time in few cases. 
+- ***May be subject to jurisdictional or compliance issues***: Also there are chances that you may become a subject to jurisdictional or compliance issues.
+
+## Private Cloud: Disadvantages
+
 - ***
-
-
-
-
 
 
 
