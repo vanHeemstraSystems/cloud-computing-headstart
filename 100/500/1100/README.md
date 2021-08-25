@@ -21,6 +21,17 @@ Cloud security helps to:
 
 ## Private Cloud: Advantages
 
+- ***Provides an internal firewall***: In private cloud setup, your data lives in your private network and can be put behind a firewall.
+- ***Protects from data leakage***: It provides protection from data leakage.
+- ***Stores data in a private network***: Your private cloud infrastructure is isolated, and there is no need for you to connect to the Internet. 
+- ***Keeps data isolated, guarding you from network-related security issues***: This protects you from any kind of security issues that you may face if you are on the network.
+- ***Ensures zero downtime even if the cloud providers face shutdown***: And interestingly, there is no downtime even the cloud providesr face shutdown.
+
+## Public Cloud: Disadvantages
+
+- ***
+
+
 
 
 
