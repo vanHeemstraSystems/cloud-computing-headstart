@@ -39,3 +39,7 @@ See [README.md](./1800/README.md)
 ## 1900 Key Takeaways
 
 See [README.md](./1900/README.md)
+
+## 2000 Knowledge Check
+
+See [README.md](./2000/README.md)
