@@ -20,6 +20,8 @@ So today, cloud-based applications and data are spread across multiple environme
 
 Let us look at each of these:
 
+![Screenshot 2021-08-26 133549](https://user-images.githubusercontent.com/12828104/130956164-3a0bb165-057f-4f56-888a-3afc3058c31f.png)
+
 
 
 
