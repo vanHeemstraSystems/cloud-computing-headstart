@@ -15,6 +15,6 @@ The benefits of supporting the key security standards are numerous:
 ## Laws Governing various Geographies
 
 - ***General Data Protection Regulation (GDPR)***
-- ***Federal Risk and Authorization Management Program (FedRAMP)***
+- ***Federal Risk and Management Program (FedRAMP)***
 - ***Health Insurance Portability & Accountability Act (HIPAA)***
 - ***Health Information Trust (HITRUST)***
