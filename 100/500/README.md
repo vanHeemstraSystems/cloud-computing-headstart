@@ -28,7 +28,7 @@ See [README.md](./1500/README.md)
 
 See [README.md](./1600/README.md)
 
-## 1700 Compliance Using HIPAA and HITRUST
+## 1700 Compliance Using HIPAA and HITrust
 
 See [README.md](./1700/README.md)
 
