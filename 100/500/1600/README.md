@@ -15,10 +15,8 @@ AWS, Azure, and Google Cloud Platform all are GDPR compliant.
 
 FedRAMP is a cyber security risk management program for the purchase and use of cloud products and services used by U.S. federal agencies.
 
+FedRAMP also has an impact on cloud:
 
+- Cloud providers interested in selling their cloud service to the Federal Government must obtain FedRAMP authorization.
 
-
-
-
-
-== WE ARE HERE ==
+AWS, Azure, and Google Cloud Platform all are FedRAMP compliant.
