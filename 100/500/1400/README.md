@@ -22,6 +22,21 @@ Let us look at each of these:
 
 ![Screenshot 2021-08-26 133549](https://user-images.githubusercontent.com/12828104/130956164-3a0bb165-057f-4f56-888a-3afc3058c31f.png)
 
+Let's start with ***private cloud***. In this model the enterprise is responsible for cloud security as it is hosted within their own datacenters. The data security is also taken care of by the enterprise. 
+
+The second is the ***public cloud*** model wherein the infrastructure is owned by the cloud vendor. The enterprise takes care of middleware, data, the operating system, and the applications. 
+
+The third one is ***Software as a Service (SaaS)***, wherein the cloud vendor is responsible for infrastructure and application security in the provided platform. The enterprises are responsible in taking care of data, making sure it is protected from accidental exposure and deletion or from malicious insiders.     
+
+## Compliance
+
+While you move to cloud infrastructure
+
+
+
+
+
+
 
 
 
