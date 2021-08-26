@@ -24,11 +24,11 @@ See [README.md](./1400/README.md)
 
 See [README.md](./1500/README.md)
 
-## 1600 Compliance Using Gdpr and Fedramp
+## 1600 Compliance Using GDPR and FedRAMP
 
 See [README.md](./1600/README.md)
 
-## 1700 Compliance Using Hipaa and Hitrust
+## 1700 Compliance Using HIPAA and HITRUST
 
 See [README.md](./1700/README.md)
 
