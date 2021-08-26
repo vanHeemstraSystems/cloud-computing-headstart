@@ -30,16 +30,22 @@ The third one is ***Software as a Service (SaaS)***, wherein the cloud vendor is
 
 ## Compliance
 
-While you move to cloud infrastructure
+While you move to cloud infrastructure protecting data and sensitive workload is a major necessity. 
 
+Along with protecting data, you should maintain and achieve compliance in the relevant region or industry you are catering to by conforming to complex laws, policies, rules, and standards. 
 
+Compliance includes:
 
+- Laws
+- Requirements
+- Policies
+- Rules
+- Standards
+- Governance
+- Regulations
 
+## Vulnerability and Mitigation Assessment
 
-
-
-
-
-
-
-== WE ARE HERE ==
+- ***Update operating systems and applications***: Who keeps your operating systems and applications up to date?
+- ***Data backup and testing***: Who performs back up of data, should something happen? Have they been tested?
+- ***Perform virtual machine security scan***: Who performs security scans of your virtual machines?
