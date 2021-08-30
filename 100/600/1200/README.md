@@ -4,7 +4,7 @@ Let's now look at the technologies that can be considered when thinking about wh
 
 - ***Edge Computing***: It allows you to process data which is producec by Internet of Things (IoT). It includes devices on which computation is performed. The edge is bascially comprised computing nodes distributed across geographies. Some use cases where edge computing has a key role, would be Internet of Things, Cloud gaming, smart cities, and Augmented Reality (AR).
 
-- ***Complexity Growth***: 
+- ***Complexity Growth***: The pace with which cloud is growing and evolving can lead to lack of resources with required expertise.
 
 - ***Specialized Cloud***: 
 
