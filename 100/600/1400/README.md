@@ -18,14 +18,10 @@ Let's look at its benefits.
 
 ## DevOps on Cloud Services
 
-
-
-
-
-
-
-
-
-
-
-== WE ARE HERE ==
+- AWS CodeCommit
+- Azure Repos
+- Google Cloud Platform (GCP) - Cloud Source Repositories
+- Code Deploy
+- Code Pipeline
+- Azure DevOps
+- Azure Pipeline
