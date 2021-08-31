@@ -16,7 +16,7 @@ See [README.md](./1200/README.md)
 
 See [README.md](./1300/README.md)
 
-## 1400 Devops on Cloud
+## 1400 DevOps on Cloud
 
 See [README.md](./1400/README.md)
 
