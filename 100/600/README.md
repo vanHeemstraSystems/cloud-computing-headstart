@@ -20,7 +20,7 @@ See [README.md](./1300/README.md)
 
 See [README.md](./1400/README.md)
 
-## 1500 Iot on Cloud
+## 1500 IoT on Cloud
 
 See [README.md](./1500/README.md)
 
