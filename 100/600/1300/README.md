@@ -35,4 +35,4 @@ Now let's move to the services.
 - Amazon Kinesis
 - Azure Stream Analytics
 - Event Hubs
-- BigQuery
+- Google Cloud Platform (GCP) - BigQuery
