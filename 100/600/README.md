@@ -24,7 +24,7 @@ See [README.md](./1400/README.md)
 
 See [README.md](./1500/README.md)
 
-## 1600 Saas
+## 1600 Software as a Service (SaaS)
 
 See [README.md](./1600/README.md)
 
