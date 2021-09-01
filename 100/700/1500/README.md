@@ -16,7 +16,7 @@
 
 ## Why did Airbnb migrate to the cloud?
 
-- [X] A. Reduce cost as compared to on-premise infrastructure
+- [ ] A. Reduce cost as compared to on-premise infrastructure
 - [ ] B. Increase performance and reduce downtime
 - [ ] C. Manage and customize the stack without dependencies
-- [ ] D. All of the above
+- [X] D. All of the above
