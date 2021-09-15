@@ -20,9 +20,3 @@ See [README.md](./1000/README.md)
 
 ## 5000 - Course Resources
 
-
-
-
-
-
-== WE ARE HERE ==
