@@ -1,10 +1,7 @@
 # 1000 - Section 1: Cloud Concepts
 
-## Understand Cloud Concepts
+## 1000 - Introduction
 
-## Understand Core Azure Services
+See [README.md](./1000/README.md)
 
-## Understand Security, Privacy, Compliance and Trust
-
-## Understand Azure Pricing and Support
-
+## 2000 - What is Cloud Computing
