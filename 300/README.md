@@ -9,7 +9,6 @@ See [README.md](./1000/README.md)
 ## 2000 - Section 2: Core Azure Services
 
 
-
 ## 3000 - Section 3: Security Privacy Compliance and Trust
 
 
