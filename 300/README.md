@@ -2,6 +2,8 @@
 
 ## 1000 - Section 1: Cloud Concepts
 
+See [README.md](./1000/README.md)
+
 == WE ARE HERE ==
 
 ## 2000 - Section 2: Core Azure Services
