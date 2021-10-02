@@ -29,3 +29,7 @@ See [README.md](./600/README.md)
 ## 700 Building a Business Case for Cloud 
 
 See [README.md](./700/README.md)
+
+## 800 Assessment
+
+See [README.md](./800/README.md)
