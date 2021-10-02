@@ -1,4 +1,4 @@
-# 300 Microsoft Azure Fundamentals
+# 300 [Prerequisite] Microsoft Azure Fundamentals
 
 ## 1000 - Section 1: Cloud Concepts
 
